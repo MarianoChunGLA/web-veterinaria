@@ -1,3 +1,14 @@
 body {
     background-color: #aaa;
 }
+
+footer {
+    background-color: #111;
+    color: gold;
+    height: 70px;
+    line-height: 70px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
